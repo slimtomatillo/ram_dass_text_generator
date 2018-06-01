@@ -2,7 +2,7 @@
   
 By Alex Smith  
   
-### “As long as you have certain desires about how it ought to be, you can't see how it is.” - Ram Dass  
+### "As long as you have certain desires about how it ought to be, you can't see how it is." - Ram Dass  
   
 **Overview: Problem and Background**  
   
@@ -67,3 +67,5 @@ Next time, I would setup a better system for organizing generated text, model pa
 **The ego is** the world and they say, “what is all the great the mantra a.  
 **I am not attached** to the pain is in the faces of the time in the souls is a p.  
 **I am not attached** to the world and the love. it’s a moment that you see that .  
+  
+### "The quieter you become, the more you can hear." - Ram Dass
