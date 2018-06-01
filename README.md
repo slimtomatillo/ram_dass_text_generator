@@ -67,5 +67,41 @@ Next time, I would setup a better system for organizing generated text, model pa
 **The ego is** the world and they say, “what is all the great the mantra a.  
 **I am not attached** to the pain is in the faces of the time in the souls is a p.  
 **I am not attached** to the world and the love. it’s a moment that you see that .  
+
+**Sources**
+  
+Thank you to all of the following people / projects / libraries:
+  
+Jason Brownlee
+https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
+https://machinelearningmastery.com/develop-character-based-neural-language-model-keras/
+https://machinelearningmastery.com/develop-word-based-neural-language-models-python-keras/
+  
+Andrej Karpathy
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+  
+Christopher Olah
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+  
+Keras
+https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py
+  
+Brendan Herger
+https://github.com/bjherger/Shower_thoughts_generator
+  
+Aneesha Bakharia
+https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730
+  
+JRC1995
+https://github.com/JRC1995/GRU-Text-Generator
+  
+Analytics Vidhya
+https://www.analyticsvidhya.com/blog/2017/09/machine-learning-models-as-apis-using-flask/
+  
+**Contact**
+  
+email: datagrlxyz @ gmail dot com
+twitter: @datagrlxyz
+blog: www.datagrl.xyz
   
 ### "The quieter you become, the more you can hear." - Ram Dass
