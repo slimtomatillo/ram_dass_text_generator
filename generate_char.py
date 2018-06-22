@@ -28,7 +28,7 @@ def generate(user_input):
     # Print seed text entered by user above
     print('Generating text with seed:', user_input)
 
-    # Number of generated characters to be generated
+    # Number of characters to be generated
     num_char_gen = 60
 
     # Get data
