@@ -1,4 +1,4 @@
-# Use text generation models to generate text give a seed of the user's input
+# Use text generation models to generate text given a seed of the user's input
 
 # Import libraries
 import numpy as np
