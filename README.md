@@ -1,3 +1,5 @@
+Generate your own text!: https://thawing-brushlands-50557.herokuapp.com/
+
 # Can Wisdom Be Generated? Generating Text in the Style of Ram Dass  
   
 By Alex Smith  
